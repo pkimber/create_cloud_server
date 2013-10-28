@@ -1,0 +1,2 @@
+apache-libcloud
+salt-cloud
